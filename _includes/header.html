@@ -1,0 +1,48 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="robots" content="{{page.index}}index, {{page.follow}}follow" />
+<meta name="description" content="The official site of DroidJamIndia. A Android conference in India." />
+<meta name="author" content="DroidJamIndia" />
+<meta name="keywords" content=" android, droidjam, droidjamindia, droid, conference, india" />
+<meta name="p:domain_verify" content="465dc3baf27b0caa31c05aeab0c7c0ac" />
+<meta name="google-site-verification" content="eytWUbBUrmEOY0zSaUfJre-1Aw_i0MOSJf18X2zNKlc" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@droidjamindia" />
+<meta name="twitter:creator" content="@IndianGuru" />
+<meta name="twitter:image" content="http://www.droidjam.in/assets/images/logo.png" />
+
+<!-- Facebook meta tags -->
+<meta property="og:site_name" content="DroidJamIndia" />
+<meta property="og:url" content="{{site.url}}{{page.url}}" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://www.droidjam.in/assets/images/logo.png" />
+
+{% if page.meta_title %}
+  <meta name="twitter:title" content="{{ page.meta_title }}" />
+  <meta property="og:title" content="{{ page.meta_title }}" />
+{% else %}
+  <meta name="twitter:title" content="{{ site.meta_title }}" />
+  <meta property="og:title" content="{{ site.meta_title }}" />
+{% endif %}
+
+{% if page.meta_description %}
+  <meta name="twitter:description" content="{{ page.meta_description }}" />
+  <meta property="og:description" content="{{ page.meta_description }}" />
+{% else %}
+  <meta name="twitter:description" content="{{ site.meta_description }}" />
+  <meta property="og:description" content="{{ site.meta_description }}" />
+{% endif %}
+
+<link rel="favicon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+<!-- Bootstrap Core CSS -->
+<link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+<!-- Fonts -->
+<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+<!-- Custom Theme CSS -->
+<link href="{{ site.github_project_name }}/assets/css/main.css" rel="stylesheet">
+<link href="{{ site.github_project_name }}/assets/css/style-guide.css" rel="stylesheet">
+<link href="{{ site.github_project_name }}/assets/css/override-bootstrap-responsive.css" rel="stylesheet">
