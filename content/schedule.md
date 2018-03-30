@@ -5,3 +5,5 @@ weight: 3
 draft: false
 ---
 
+Schedule will be announced when call for papers is closed and speakers are selected. <a href="/#call-for-papers">Submit your
+talk!</a>
