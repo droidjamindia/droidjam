@@ -1,0 +1,28 @@
+baseurl = "https://droidjam.in"
+title = "DroidJam"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = "DroidJam is India's premier Android conference"
+  logo = "fa-diamond"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+title = "DroidJam"
+description = "DroidJam is India's premier Android conference"
