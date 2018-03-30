@@ -5,3 +5,5 @@ weight: 4
 draft: false
 ---
 
+Speakers will be announced when call for papers is closed. <a href="/#call-for-papers">Submit your
+talk!</a>
