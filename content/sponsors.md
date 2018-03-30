@@ -19,4 +19,4 @@ DroidJam would not be possible without our sponsors.
 ### Digital sponsor
 1 slot open
 
-Contact the <a href="/#organizers">organizers</a> for sponsorship opportunities.
+Contact the <a href="/#organizers">organizers</a> for sponsorship opportunities. Check out the <a href="/docs/droidjam_sponsorship_prospectus.pdf">sponsorship prospectus.</a>
