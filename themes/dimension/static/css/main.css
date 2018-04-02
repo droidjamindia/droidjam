@@ -877,8 +877,8 @@ button {
     #header > :first-child:before {
       display: none; }
   #header .logo {
-    width: 5.5rem;
-    height: 5.5rem;
+    width: 300px;
+    height: 300px;
     line-height: 5.5rem;}
     #header .logo .icon:before {
       font-size: 2rem; }
@@ -979,8 +979,8 @@ button {
         top: calc(-2rem - 1px);
         height: calc(2rem + 1px); }
     #header .logo {
-      width: 4.75rem;
-      height: 4.75rem;
+      width: 300px;
+      height: 300px;
       line-height: 4.75rem; }
       #header .logo .icon:before {
         font-size: 1.75rem; }

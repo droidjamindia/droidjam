@@ -7,8 +7,8 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = "DroidJam is India's premier Android conference"
-  logo = "fa-diamond"
+  description = "India's premier Android conference"
+  logoimage = "images/droidjam.svg"
 
 [[params.social]]
   medium = "twitter"
@@ -25,4 +25,4 @@ languageName = "English"
 weight = 1
 
 title = "DroidJam"
-description = "DroidJam is India's premier Android conference"
+description = "India's premier Android conference"
