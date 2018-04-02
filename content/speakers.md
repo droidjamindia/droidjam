@@ -5,5 +5,4 @@ weight: 4
 draft: false
 ---
 
-Speakers will be announced when call for papers is closed. <a href="/#call-for-papers">Submit your
-talk!</a>
+Speakers will be announced when call for papers is closed. <a href="https://www.papercall.io/droidjam">Submit your talk!</a>
