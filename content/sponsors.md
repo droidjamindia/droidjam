@@ -23,7 +23,7 @@ DroidJam would not be possible without our sponsors.
 <img alt="Townscript" src="/images/townscript.png" width="250" height="60">
 
 ### Hospitality partner
-<img alt="Treebo" src="/images/treebo.png" width="158" height="78">
+<img alt="Treebo" src="/images/treebo.png" width="146" height="146">
 
 If you're visiting from outside bangalore, Treebo is providing 30% discount on rooms. Contact the <a href="/#organizers">organizers</a> for the discount code.
 
