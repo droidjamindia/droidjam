@@ -17,7 +17,9 @@ DroidJam would not be possible without our sponsors.
 2 slots open
 
 ### Digital sponsor
-1 slot open
+<img alt="BYJU'S" src="/images/byjus.png" width="125" height="114" >
+
+<a href="https://byjus.com/">BYJU’S</a> is India’s largest education company and the creator of India’s largest K12 learning app which offers highly adaptive, engaging and effective learning programs for students in classes 4-12 (K-12) and competitive exams like JEE, NEET, CAT, IAS, GRE and GMAT. Launched in 2015, BYJU’S has become the most loved and preferred education app for students across age groups. Today, BYJU’S has over 16 million downloads, 900,000 annual paid subscriptions and sees addition of 50,000 students every month. Delivering world class learning experience, BYJU’S is helping students across grades learn in a while new and engaging way.
 
 ### Ticketing partner
 <img alt="Townscript" src="/images/townscript.png" width="250" height="60">
