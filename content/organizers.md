@@ -20,6 +20,6 @@ We host regular meetups, targeting developers who are either professionals alrea
 
 
 ### Organizer contacts
-- Anup Cowkur - +91 9663 5833 15
-- Abhinandan Kothari - +91 8860 0225 44
-- Satish Talim - +91 8087 7065 01
+- Anup Cowkur - anup.cowkur@go-jek.com
+- Abhinandan Kothari - abhinandank@go-jek.com
+- Satish Talim - satish@emergingtechs.in
