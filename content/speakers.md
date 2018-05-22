@@ -15,13 +15,6 @@ Amrit is a Senior Developer Advocate at Google. He is one of the original founde
 
 Faiz is a Google Developer Expert for design who spends his time creating unforgettable experiences backed by tons of user research and presented with delightful interfaces, and uses his development skills to bring them to life. he's also a fervent community enthusiast, who runs a large developer community in Mumbai, speaks at conferences, meetups, and hackathons, and contributes to open source code.
 
-#### Anup Cowkur
-<img alt="GO-JEK" src="/images/anup.png" width="100" height="100" >
-
-Anup is a Google Developer Expert for Android. He currently works as a senior engineer at GO-JEK. Anup has a 
-decade of experience in building Android apps and has worked on apps like Todoist, DeviantArt and others with millions
-of downloads around the world. He's also an organiser with Blrdroid.
-
 #### Saket Narayan
 <img alt="GO-JEK" src="/images/saket.png" width="100" height="100" >
 
