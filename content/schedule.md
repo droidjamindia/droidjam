@@ -5,4 +5,4 @@ weight: 3
 draft: false
 ---
 
-Schedule will be announced when call for papers is closed and speakers are selected. <a href="https://www.papercall.io/droidjam">Submit your talk!</a>
+Schedule will be announced when call for papers is closed and speakers are selected.
