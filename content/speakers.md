@@ -25,6 +25,3 @@ Saket started developing for Android when Fragments weren't a thing yet and can 
 
 Soham is a Google Developer Expert for design and has experience in domains such as agriculture, retail, banking, hiring and consumer apps. He has also created the android app "Skyro Voice Recorder" which has been featured on the play store.
 He's an organiser with Blrdroid. He is also a UX mentor for the Google Launchpad and Design Sprint programs in India.
-
-### Wanna be a speaker?
-<a href="https://www.papercall.io/droidjam">Submit your talk!</a>
