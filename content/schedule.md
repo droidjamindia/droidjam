@@ -11,7 +11,7 @@ draft: false
 - 10:45 - 11:30 : Flutter: Why you should try it - WM Leler
 - 11:30 - 12:00 : Tea break
 - 12:00 - 12:45 : Optimising apps using App Bundle - Amrit Sanjeev
-- 12:45 - 1:30 : Decoding Android Runtime - Jithin Sharma
+- 12:45 - 1:30 : Decoding Android Runtime - Jitin Sharma
 - 1:30 - 2:30 : Lunch break
 - 2:30 - 3:45 : Custom Views as Components - Vedant Agarwala
 - 3:45 - 4:30 : Arrow and functional programming for Kotlin developers - Rivu Chakraborty
