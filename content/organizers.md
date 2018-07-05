@@ -13,7 +13,7 @@ Our organizers make DroidJam happen with a bit of love and lot of hard work.
 ETT is a non profit organization that focuses on creating opportunities and events to promote open source contribution, programming languages, tools and methodologies in India.
 
 ## Blrdroid
-<img alt="GO-JEK" src="/images/blrdroid.jpg" width="200" height="100" style="background-color:white;">
+<img alt="GO-JEK" src="/images/blrdroid.svg" width="200" height="100" style="background-color:white;">
 
 <a href="https://www.meetup.com/blrdroid/">BlrDroid</a>, is a group of enthusiastic android developers who love creating apps. We provide a platform for developers and enthusiasts either working within the Android ecosystem or interested in learning more about Android to collaborate and network among each other.
 We host regular meetups, targeting developers who are either professionals already, beginning their journey in android, or professionals who are looking to go to the next level in there career.

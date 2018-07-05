@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="842px" height="595px" viewBox="0 0 842 595" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>A4 Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="122.531046%" y1="50%" x2="-2.70884991%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#231F20" offset="0%"></stop>
+            <stop stop-color="#F1F2F2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="A4-Copy-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="BLRDROID" font-family="OpenSans-Light, Open Sans" font-size="115.849998" font-weight="300" fill="#757575">
+            <tspan x="164" y="324">BLRDROID</tspan>
+        </text>
+        <g id="Logo" transform="translate(87.500000, 276.000000) scale(1, -1) translate(-87.500000, -276.000000) translate(42.000000, 200.000000)" fill-rule="nonzero">
+            <path d="M55.9651221,56.7164179 L20.8432836,0 L38.5841163,0 C42.7813377,0 47.994273,2.86459972 50.1600666,6.38004358 L65.1065473,30.549827 C66.8669663,34.0918359 66.8100317,39.2476726 64.7899908,42.5173896 L55.9651221,56.7164179 Z" id="Shape" fill="#FFC20C"></path>
+            <path d="M39.9333273,69.5329016 L0.572084507,5.65711589 C-0.950286483,2.50104071 0.63116159,0 4.53706567,0 L20.9059621,0 L55.9477612,56.5005828 L39.9333273,82.238806 C42.0941852,78.7496998 42.0941852,73.0330353 39.9333273,69.5329016" id="Shape" fill="#16A05D"></path>
+            <path d="M4.61917611,152 C0.449331732,152 -1.2050822,149.13238 0.938443208,145.644912 L64.3538873,42.5517546 C66.3531587,39.2936967 66.4095079,34.1562446 64.6694431,30.6268657 L80.0820896,55.7361906 L20.8702993,152 L4.61917611,152 Z" id="Shape" fill="#4B8BF5"></path>
+            <path d="M20.8432836,152 L80.2739861,56.1492537 L88.8885084,70.08539 C91.042139,73.5710713 91.042139,79.2641312 88.8885084,82.7388306 L49.955754,145.672181 C47.8021234,149.146881 42.6239088,152 38.4546428,152 L20.8432836,152 Z" id="Shape" fill="#DD4D40"></path>
+            <path d="M64.2721699,43.074224 L39.8575358,82.8059701 C41.9827822,79.3322163 41.9827822,73.6371057 39.8575358,70.1479715 L31.2649254,56.0771811 L64.5805653,31.1940299 C66.3102612,34.7117274 66.2521577,39.8289777 64.2721699,43.074224" id="Shape" fill="url(#linearGradient-1)" opacity="0.602232143"></path>
+        </g>
+    </g>
+</svg>
