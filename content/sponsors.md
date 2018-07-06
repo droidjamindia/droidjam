@@ -30,6 +30,3 @@ DroidJam would not be possible without our sponsors.
 <img alt="Treebo" src="/images/treebo.png" width="146" height="146">
 
 If you're visiting from outside bangalore, Treebo is providing 30% discount on rooms. Contact the <a href="/#organizers">organizers</a> for the discount code.
-
-#### Want to be a sponsor?
-Contact the <a href="/#organizers">organizers</a> for sponsorship opportunities. Check out the <a href="/docs/droidjam_sponsorship_prospectus.pdf">sponsorship prospectus.</a>
