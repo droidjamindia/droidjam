@@ -20,7 +20,7 @@ draft: false
 
 #### Day 2 - July 14
 - 10:00 - 10:45 : Material design 2 and material tooling - Soham Mondal
-- 10:45 - 11:30 : IllegalStateException: Can not perform this action after onSaveInstanceState - Saket Narayan
+- 10:45 - 11:30 : Persistence as the single source of truth - Saket Narayan
 - 11:30 - 12:00 : Tea break
 - 12:00 - 12:45 : Coroutines in Kotlin and Android - Satyarth Sampath 
 - 12:45 - 1:30 : Why not MVPI or MVVMI? - Garima Jain & Ritesh Gupta
