@@ -18,6 +18,17 @@ DroidJam would not be possible without our sponsors.
 
 <a href="https://developers.google.com/">Google's</a> mission is "to organize the world’s information and make it universally accessible and useful". With more than 60,000 employees in 50 different countries, Google makes hundreds of products used by billions of people across the globe, from YouTube and Android to Smartbox and, of course, Google Search.
 
+### Silver sponsor
+<img alt="PhonePe" src="/images/phonepe.png" width="300" height="110" >
+
+Bengaluru-headquartered <a href="https://www.phonepe.com/">PhonePe</a> is the fastest growing payments company in India. With
+over 100 million users, the PhonePe app drives the highest number of merchant UPI
+transactions in India. Using PhonePe, users can send and receive money, recharge mobile,
+DTH, datacards, make utility payments and buy gold. PhonePe is accepted as a payment
+option across 3 lakh offline and online merchant outlets covering food, travel, groceries,
+movie tickets etc. PhonePe also offers microapps within its platform allowing customers to
+avail Ola, redBus and Goibibo Hotel services.
+
 ### Digital sponsor
 <img alt="BYJU'S" src="/images/byjus.png" width="125" height="114" >
 
