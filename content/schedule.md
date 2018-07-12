@@ -13,8 +13,9 @@ draft: false
 - 12:00 - 12:45 : Optimising apps using App Bundle - Amrit Sanjeev
 - 12:45 - 1:30 : Decoding Android Runtime - Jitin Sharma
 - 1:30 - 2:30 : Lunch break
-- 2:30 - 3:45 : Custom Views as Components - Vedant Agarwala
-- 3:45 - 4:30 : Arrow and functional programming for Kotlin developers - Rivu Chakraborty
+- 2:30 - 3:15 : Custom Views as Components - Vedant Agarwala
+- 3:15 - 4:00 : Arrow and functional programming for Kotlin developers - Rivu Chakraborty
+- 4:00 - 4:30 : Tea break
 - 4:30 - 5:00 : Flash talks
 - 6:00 - 8:00 : Dinner
 
@@ -25,5 +26,6 @@ draft: false
 - 12:00 - 12:45 : Coroutines in Kotlin and Android - Satyarth Sampath 
 - 12:45 - 1:30 : Why not MVPI or MVVMI? - Garima Jain & Ritesh Gupta
 - 1:30 - 2:30 : Lunch break
-- 2:30 - 3:45 : Why Flutter is the framework developers deserve, but also the one they need right now - Rohan Taneja
-- 3:45 - 4:30 : Building ARCore apps using Sceneform - Hari Vignesh J
+- 2:30 - 3:15 : Why Flutter is the framework developers deserve, but also the one they need right now - Rohan Taneja
+- 3:15 - 4:00 : Building ARCore apps using Sceneform - Hari Vignesh J
+- 4:00 - 4:30 : Tea break
