@@ -12,7 +12,7 @@ We had mentioned at the time of buying the ticket, that it is non-refundable. Ho
  
 
 #### Will we be able to tweet about all the Android awesomeness at the conference?
-Of course you can! Just tag all your tweets with #DroidJam18.
+Of course you can! Just tag all your tweets with #DroidJam19.
 
  
 
@@ -22,4 +22,4 @@ We love going to conferences that don't make you choose between two great presen
  
 
 #### What are the timings of the event?
-Registrations will open at 8:00 am on Friday, 13 July 2018 and day 1 will carry on till 5:00 pm in the evening. The talks on day 2 will start at 9:00 am and run upto 5:00 pm.
+Registrations will open at 8:00 am on Friday, 30 Aug 2019  and day 1 will carry on till 5:00 pm in the evening. The talks on day 2 will start at 9:00 am and run upto 5:00 pm.
