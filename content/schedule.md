@@ -14,8 +14,8 @@ draft: false
 - 12:00 - 12:45 : Building apps for early stage start-ups and large MNCs - Kavya Nair, Arun Babu
 - 12:45 - 1:30 : Isolating Flutter into Multithreading effectively - Anvith Bhat
 - 1:30 - 2:30 : Lunch break
-- 2:30 - 3:45 : Leveraging Kotlin Sealed classes - Sanchita Agarwal
-- 3:45 - 4:30 : Coroutines and Rx: A battle towards asynchronicity - Amanjeet Singh
+- 2:30 - 3:15 : Leveraging Kotlin Sealed classes - Sanchita Agarwal
+- 3:15 - 4:00 : Coroutines and Rx: A battle towards asynchronicity - Amanjeet Singh
 
 #### Day 2 - Aug 31
 - 10:00 - 10:45 : Cut your APK size with features on demand - Suneet Agrawal
@@ -24,4 +24,4 @@ draft: false
 - 12:00 - 12:45 : Do Not Go Gentle into that Good Night - Dark Theming on Android - Faiz Malkani
 - 12:45 - 1:30 : Analysing work manager in depth - Gaurav Bhatnagar & Rohan Kandwal 
 - 1:30 - 2:30 : Lunch break
-- 2:30 - 3:45 : Exo Player : Video Streaming Spearhead @Hotstar - Ayushi Gupta
+- 2:30 - 3:15 : Exo Player : Video Streaming Spearhead @Hotstar - Ayushi Gupta
