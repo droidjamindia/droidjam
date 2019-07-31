@@ -38,7 +38,8 @@ Arun is a Android engineer at Uber. He is one of the organizers of Blrdroid. Whe
 #### Ayushi Gupta
 <img alt="Ayushi Gupta" src="/images/ayushi.png" width="100" height="100" >
 
-Ayushi is an enthusiastic software developer, fan of Google technologies & products. She likes to develop Android Apps to give an interface to her crazy ideas. A trekking enthusiast, loves to listen music in her free time and write blogs. She's currently in pursuit of working on ML and AI and to apply that in apps to solve problems.
+Hotstar, Android Enginner, If at first you don’t succeed, you must be a programmer 🙂
+An enthusiastic software developer, fan of Google technologies & products. Likes to develop Android Apps to give an interface to my crazy ideas. A trekking enthusiast, loves to listen music in my free time and write blogs. In pursuit of working on ML and AI and to apply that in apps to solve problems.
 
 #### Anvith Bhat
 <img alt="Anvith Bhat" src="/images/anvith.png" width="100" height="100" >
