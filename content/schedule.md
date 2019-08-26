@@ -15,6 +15,7 @@ draft: false
 - 12:45 - 1:30 : Isolating Flutter into Multithreading effectively - Anvith Bhat
 - 1:30 - 2:30 : Lunch break
 - 2:30 - 3:15 : Leveraging Kotlin Sealed classes - Sanchita Agarwal
+- 4:00 - 6:30 : Party at [Foxtrot](https://goo.gl/maps/aothAkkkvj46iwMw9)
 
 #### Day 2 - Aug 31
 - 10:00 - 10:45 : Cut your APK size with features on demand - Suneet Agrawal
